@@ -289,15 +289,15 @@ de_DE:
       help: "Falls Sie glauben, dass hier ein Fehler vorliegt, kontaktieren Sie Ihren Systemadministrator."
   expired_reset_token: Der Link zum Zurücksetzen des Passworts ist abgelaufen!
   features:
-    title: Eigenschaften
+    title: Loxonet Eigenschaften
     rooms: Personalisierte Räume
     recordings: Aufzeichnungsmanagement
-    designs: Eigene Designs
-    authentication: Nutzerauthentifizierung
+    designs: Unlimitiert viele Nutzer
+    authentication: Einfacher Zugang per Link
   footer:
     legal: Impressum
     privpolicy: Datenschutzerklärung
-    powered_by: "Bereitgestellt durch %{href}."
+    powered_by: "Bereitgestellt durch die Loxonet GmbH (https://loxonet.com)"
   forgot_password:
     subtitle: Passwort vergessen
     email: E-Mail
@@ -328,9 +328,9 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "%{href} ist eine benutzerfreundliche Oberfläche für das Open-Source-Webkonferenzsystem BigBlueButton. Sie können Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
-    welcome: Willkommen zu BigBlueButton.
-    video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
+    about: "Loxonet Video (https://loxonet.com) ist eine benutzerfreundliche Oberfläche für Videokonferenzen für Loxonet Nutzer. Sie können Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
+    welcome: Willkommen zu Loxonet Video.
+    video: Erfahren Sie mehr zum Umfang von Loxonet Video (https://loxonet.com/funktionen/)
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
   language_default: Voreinstellung (Browsersprache)
